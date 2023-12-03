@@ -1,2 +1,2 @@
 # MavenProjectWithSeleniumJava
-this is a maven project
+this is a maven project with selenium with java
